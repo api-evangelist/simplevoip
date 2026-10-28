@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SimpleVoIP is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://simplevoip.com/
+SimpleVoIP provides cloud‑based voice communication solutions for distributed enterprises and small‑to‑medium businesses. Their platform offers VoIP phone services, AI‑driven call analytics, integration with CRM and POS systems, and customizable deployment options, aiming to simplify communications and improve operational efficiency.
+
+**Areas:** VoIP · Communications · UCaaS · AI · SMB
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://simplevoip.com/)
+- [Documentation](https://simplevoip.com/apis/)
+- [API reference](https://simplevoip.github.io/sv_portal/)
+- [Pricing](https://simplevoip.com/features-and-plans/)
+- [Sign up](https://simplevoip.com/sign-up-for-simplevoip-newsletter/)
+- [Support](https://support.simplevoip.com/hc/en-us)
+- [Blog](https://simplevoip.com/blog/)
+- [Terms of service](https://support.simplevoip.com/hc/en-us/articles/360056923954)
+- [Privacy policy](https://support.simplevoip.com/hc/en-us/articles/27831208180247-SMS-Privacy-Policy-Template)
+- [GitHub](https://github.com/simplevoip)
+- [Status](https://status.simplevoip.us/)
+
+**APIs profiled:** 5
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/simplevoip/](https://apis.io/providers/simplevoip/).
